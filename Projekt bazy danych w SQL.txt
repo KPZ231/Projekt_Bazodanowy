@@ -1,0 +1,46 @@
+Zadanie projektowe:
+
+Zaprojektuj i stwórz bazę danych na temat uzgodniony z nauczycielem. Projekt wykonaj z wykorzystaniem języka SQL. Utwórz dokumentację projektową i zapisz ją w formacie pdf. W dokumentacji projektowej powinny znaleźć się następujące elementy, które podlegają ocenie:
+
+1. Strona tytułowa (m.in. temat pracy, autor) – 1pkt
+2. Spis treści – 1pkt
+3. Krótki opis instytucji i jej potrzeby w zakresie projektowanej bazy danych – 1pkt
+4. Opis zbiorów danych przechowywanych w bazie – 1pkt
+5. Opis tabel (nazwy, zakres przechowywanych danych, pola i dobrane do nich typy danych oraz atrybuty) – 4pkt
+6. Diagram ERD przedstawiający zaprojektowaną bazę danych – 3pkt
+7. Opis utworzonych relacji (typy, pomiędzy którymi polami zostały nawiązane, wskazanie pól będących kluczami w tabelach) – 2pkt
+8. Opis osób mających dostęp do bazy danych ze wskazaniem przysługujących im uprawnień – 1pkt
+9. Dokumentacja z wykonania bazy danych z wykorzystaniem języka SQL zawierająca chronologicznie wykorzystane instrukcje języka oraz opisane zrzuty ekranowe dokumentujące wykonane prace:
+a. tworzenie bazy danych – 1pkt
+b. tworzenie tabel, przydzielanie atrybutów -  2pkt
+c. zawiązywanie relacji – 1pkt
+d. wprowadzenie przykładowych danych do bazy – 2pkt
+e. przeglądanie i wyszukiwanie przykładowych danych w bazie – 2pkt
+f. utworzenie kont użytkowników – 1pkt
+g. przypisywanie uprawnień – 1pkt
+h. aktualizowanie i usuwanie wybranych danych – 2pkt
+i. modyfikowanie struktury wybranej tabeli – 1pkt
+j. odebranie przykładowych praw użytkownikowi – 1pkt
+k. eksport bazy i danych do pliku – 1pkt
+
+Do dokumentacji należy dołączyć skrypt SQL zawierający wyeksportowaną strukturę obiektów w bazie danych oraz przechowywane w niej informacje.
+
+Ocenie podlegać będzie także:
+- estetyka (formatowanie) dokumentu z projektem – 2pkt
+- terminowość wykonywania zadań – ok. 10% pkt za każdy etap
+- zgodność dokumentów z założeniami np. nazwy plików – 1pkt
+- inne, nie wskazane w zadaniu działania wykonane na bazie danych – 3pkt
+
+Pracę dzielimy na 3 etapy:
+1.      Polecenia 1-5 – realizacja do dwóch tygodni od rozpoczęcia projektu – 8pkt + terminowość 1pkt (do 5 marca 2024)
+2.      Polecenia 6-8 – realizacja do 4 tygodni od rozpoczęcia projektu – 6pkt + terminowość 1pkt (do 19 marca 2024)
+3.      Polecenie 9 i pozostałe warunki – realizacja do 6 tygodni od rozpoczęcia projektu – 15pkt + terminowość 2pkt (do 9 kwietnia 2024)
+
+Pozostałe oceniane elementy – 6pkt
+
+Razem do zdobycia: 39pkt
+
+Dokumenty pdf oddajemy pod nazwami:
+1.      Etap_1_Nazwisko_klasa.pdf
+2.      Etap_2_Nazwisko_klasa.pdf
+3.      Projekt_Nazwisko_klasa.pdf
